@@ -1,5 +1,7 @@
 {
   "name": "angion",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
